@@ -1,0 +1,36 @@
+President,Years in office,Year first inaugurated,Age at inauguration,State elected from,# of electoral votes,# of popular votes,National total votes,Total electoral votes,Rating points,Political Party,Occupation,College,% electoral,% popular
+George Washington,8,1789,57,Virginia,69,NA(),NA(),69,842,None,Planter,None,100,
+John Adams,4,1797,61,Massachusetts,132,NA(),NA(),139,598,Federalist,Lawyer,Harvard,94.964029,
+Thomas Jefferson,8,1801,57,Virginia,73,NA(),NA(),137,711,Democratic-Republican,"Planter, Lawyer",William and Mary,53.284672,
+James Madison,8,1809,57,Virginia,122,NA(),NA(),176,567,Democratic-Republican,Lawyer,Princeton,69.318182,
+James Monroe,8,1817,58,Virginia,183,NA(),NA(),221,602,Democratic-Republican,Lawyer,William and Mary,82.80543,
+John Quincy Adams,4,1825,57,Massachusetts,84,NA(),NA(),261,564,Democratic-Republican,Lawyer,Harvard,32.183908,
+Andrew Jackson,8,1829,61,Tennessee,178,642553,1148018,261,632,Democrat,Lawyer,None,68.199234,55.9706
+Martin Van Buren,4,1837,54,New York,170,764176,1503534,294,429,Democrat,Lawyer,None,57.823129,50.8253
+William Henry Harrison,0.8,1841,68,Ohio,234,1275390,2411808,294,329,Whig,Soldier,Hampden-Sydney,79.591837,52.8811
+James K. Polk,4,1845,49,Tennessee,170,1339494,2703659,275,632,Democrat,Lawyer,U. of North Carolina,61.818182,49.5437
+Zachary Taylor,1,1849,64,Louisiana,163,1361393,2879184,290,447,Whig,Soldier,None,56.206897,47.284
+Franklin Pierce,4,1853,48,New Hampshire,254,1607510,3161830,296,286,Democrat,Lawyer,Bowdoin,85.810811,50.8411
+James Bucha,4,1857,65,Pennsylvania,174,1836072,4054647,296,259,Democrat,Lawyer,Dickinson,58.783784,45.2832
+Abraham Lincoln,4,1861,52,Illinois,180,1865908,4685561,303,900,Republican,Lawyer,None,59.405941,39.8225
+Ulysses S. Grant,8,1869,46,Illinois,214,3013650,5722440,294,403,Republican,Soldier,US Military Academy,72.789116,52.6637
+Rutherford B. Hayes,4,1877,54,Ohio,185,4034311,8413101,369,477,Republican,Lawyer,Kenyon,50.135501,47.9527
+James A. Garfield,0.5,1881,49,Ohio,214,4446158,9210420,369,444,Republican,Lawyer,Williams,57.99458,48.2731
+Grover Cleveland,4,1885,47,New York,219,4874621,10049754,401,576,Democrat,Lawyer,None,54.613466,48.5049
+Benjamin Harrison,4,1889,55,Indiana,233,5443892,11383320,401,426,Republican,Lawyer,Miami,58.104738,47.8234
+Grover Cleveland,4,1893,55,New York,277,5551883,12056097,444,576,Democrat,Lawyer,None,62.387387,46.0504
+William McKinley,4,1897,54,Ohio,271,7108480,13935738,447,601,Republican,Lawyer,Allegheny College,60.626398,51.009
+William Howard Taft,4,1909,51,Ohio,321,7676258,14882734,483,491,Republican,Lawyer,Yale,66.459627,51.5783
+Woodrow Wilson,8,1913,56,New Jersey,435,6293152,15040963,531,723,Democrat,Educator,Princeton,81.920904,41.8401
+Warren G. Harding,2,1921,55,Ohio,404,16133314,26753786,531,326,Republican,Editor,None,76.082863,60.3029
+Herbert Hoover,4,1929,54,California,444,21411991,36790364,531,400,Republican,Engineer,Stanford,83.615819,58.2
+Franklin Roosevelt,12,1933,51,New York,472,22825016,39749382,531,876,Democrat,Lawyer,Harvard,88.888889,57.4223
+Dwight D. Eisenhower,8,1953,62,New York,442,33936137,61551118,531,699,Republican,Soldier,US Military Academy,83.239171,55.1349
+John F. Kennedy,3,1961,43,Massachusetts,303,34221344,68828960,537,704,Democrat,Author,Harvard,56.424581,49.7194
+Richard M. Nixon,5,1969,56,New York,301,31785148,73203370,538,477,Republican,Lawyer,Whittier,55.947955,43.4203
+Jimmy Carter,4,1977,52,Georgia,297,40830763,81555889,538,518,Democrat,Businessman,US Naval Academy,55.204461,50.0648
+Ronald Reagan,8,1981,69,California,489,43904153,86515221,538,634,Republican,Actor,Eureka College,90.892193,50.7473
+George Bush,4,1989,64,Texas,426,48886097,91584820,538,548,Republican,Businessman,Yale,79.182156,53.3779
+Bill Clinton,8,1993,46,Arkansas,370,44909326,104425014,538,539,Democrat,Lawyer,Georgetown,68.773234,43.0063
+George W. Bush,8,2001,54,Texas,271,50460110,105417258,538,,Republican,Businessman,Yale,50.371747,47.867
+Barack Obama,,2009,47,Illinois,365,69492376,129438754,538,,Democrat,Lawyer,Columbia University,67.843866,53.6875
